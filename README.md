@@ -1,6 +1,6 @@
 # Hello-world-in-c-
 #include<iostream>
-#nclude<conio.h>
+#include<conio.h>
  using namepaces std;
  int main()
   {
